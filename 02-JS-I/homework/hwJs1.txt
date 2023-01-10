@@ -1,0 +1,19 @@
+variable:
+
+var a = 7 -> numeros
+a = 8
+
+*string = una cadena de caracteres
+string = "hola"
+string "23"
+steing = 'hello'
+
+function (a,b) => {
+    return a+b
+}
+function (2,3) =>{
+    console.log(2+3)
+}
+function suma(a,b) {
+    return a +b
+}
